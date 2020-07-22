@@ -1,0 +1,10 @@
+{
+  "name": "itemku-test",
+  "author": "Sehren Jit Singh",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
