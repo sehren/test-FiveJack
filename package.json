@@ -1,5 +1,5 @@
 {
-  "name": "itemku-test",
+  "name": "test-FiveJack",
   "author": "Sehren Jit Singh",
   "scripts": {
     "test": "jest"
